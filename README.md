@@ -2,7 +2,7 @@ This is intended for my personal use. If you want to use it, at least fork the r
 
 Copy and paste for the lazy me:
 
-    git clone --recursive git://github.com/phunehehe/terminal-dotfiles.git
+    git clone --recursive git://github.com/hupahupa/terminal-dotfiles.git
     ./terminal-dotfiles/install.sh
 
 Existing dotfiles will be backed up, just in case. To delete them in one fell swoop:
