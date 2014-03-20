@@ -11,8 +11,8 @@
     excludesfile = ~/.gitignore
     pager = vim -c 'set nonumber buftype=nofile' -
 [user]
-    email = phuhimself@phunehehe.net
-    name = Hoang Xuan Phu
+    email = duyleminh1402@gmail.com
+    name = Duy
 [alias]
     graph = log --oneline --color --graph --decorate
 [push]
