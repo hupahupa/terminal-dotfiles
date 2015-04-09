@@ -19,6 +19,11 @@ PROMPT_COMMAND=my_prompt
 local_config="$HOME/.bashrc-local"
 test -f "$local_config" && . "$local_config"
 
+source ~/.nvm/nvm.sh
 
 # Always return success
 true
+
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
