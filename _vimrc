@@ -91,7 +91,7 @@ autocmd BufNewFile,BufRead *.md set filetype=markdown
 au InsertLeave * set nopaste
 
 " Enable mouse support in console
-set mouse=a
+" set mouse=v
 
 " Keep cursor in the middle of screen
 set scrolloff=9
